@@ -1,7 +1,7 @@
 # Como atualizar um repositório forkado
 
 ```
-git remote add upstream https://github.com/whoever/whatever.git
+git remote add upstream https://github.com/Webschool-io/be-mean-instagram.git
 
 git fetch upstream
 
