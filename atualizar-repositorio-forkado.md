@@ -7,9 +7,11 @@ git fetch upstream
 
 git checkout master
 
-git rebase upstream/master
+git merge upstream/master
 
 git push -f origin master
 ```
+
+Da segunda vez, não precisa dar o remote add upstream
 
 [Fonte](http://stackoverflow.com/questions/7244321/how-to-update-a-github-forked-repository)
